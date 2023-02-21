@@ -4,9 +4,9 @@
     "AdNetwork"            : "admob",
     
     "AdMob_ID"             : "pub-3071522790697118",
-    "AdMob_Banner"         : "",
-    "AdMob_InterstitialAd" : "",
-    "AdMob_RewardAd"       : "",
+    "AdMob_Banner"         : "ca-app-pub-3071522790697118/6281766883",
+    "AdMob_InterstitialAd" : "ca-app-pub-3071522790697118/1029440202",
+    "AdMob_RewardAd"       : "ca-app-pub-3071522790697118/7403276865",
     
     "Applovin_Banner"         : "",
     "Applovin_InterstitialAd" : "",
